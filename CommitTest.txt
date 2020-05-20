@@ -1,1 +1,1 @@
-test content for git tutorial. Ciao.
+test content for git tutorial. Non ti saluto.
